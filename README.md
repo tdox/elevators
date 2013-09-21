@@ -14,3 +14,4 @@ cabal configure
 cabal build
 
 dist/build/elevators/elevators test_input/in1.txt
+

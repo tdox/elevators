@@ -9,4 +9,4 @@ git clone git://github.com/tdox/elevators
 cd elevators
 cabal configure
 cabal build
-dist/build/elevators/elevators test_input/in1.txt 
+dist/build/elevators/elevators test_input/in1.txt

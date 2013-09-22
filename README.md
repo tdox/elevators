@@ -11,5 +11,5 @@ To compile and run it, you need to first get the Haskell plaform, either from yo
     $ cd elevators
     $ cabal configure
     $ cabal build
-    $ dist/build/elevators/elevators test_input/in1.txt`
+    $ dist/build/elevators/elevators test_input/in1.txt
 
